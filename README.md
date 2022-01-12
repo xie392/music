@@ -26,3 +26,10 @@ npm run serve
 ```
 
 # 项目部分展示图
+![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/home.png)
+![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/vedio.png)
+![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/album.png)
+![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/music.png)
+
+# 结语
+  本项目还有待完善，如果可以请自己修改并加入自己想要的元素
