@@ -1,0 +1,115 @@
+.soar-con {
+  width: 100vw;
+  min-height: 50vh;
+  background: #fff;
+  height: auto;
+  border-radius: 5vw;
+  position: relative;
+}
+
+.soar-con .soar-title {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.soar-con .active{
+  background: #fff;
+}
+
+.soar-con .soar-title h2 {
+  padding: 0 5vw;
+  font-weight: 700;
+  color: #262338;
+  line-height: 7.467vw;
+  font-size: 4.8vw;
+  color: #7b7985;
+}
+.soar-con .soar-title .playall {
+  display: flex;
+  align-items: center;
+  background: #f7f7f7;
+  border-radius: 5vw;
+  padding: 2vw 3vw;
+  margin-right: 4vw;
+}
+.soar-con .soar-title .playall .play {
+  font-size: 5vw;
+  color: #7b7985;
+}
+.soar-con .soar-title .playall .all {
+  padding-left: 1.5vw;
+  font-size: 3.5vw;
+  color: #7b7985;
+  font-weight: 600;
+}
+.soar-con .song-list {
+  width: 90vw;
+  margin: 0 auto;
+  list-style: none;
+}
+.soar-con .song-list li {
+  display: flex;
+  align-items: center;
+  min-height: 18vw;
+}
+.soar-con .song-list li .num {
+  text-align: left;
+  font-size: 4.8vw;
+  font-weight: 700;
+  color: #a1a4b3;
+  width: 10vw;
+}
+.soar-con .song-list li .con {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+}
+.soar-con .song-list li .con .song-name {
+  padding-left: 2vw;
+  height: 6vw;
+  font-size: 4.267vw;
+  font-weight: 700;
+  color: #262338;
+  line-height: 6vw;
+  width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.soar-con .song-list li .con .singer {
+  padding-left: 2vw;
+  font-size: 3.4vw;
+  display: inline-block;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #a1a4b3;
+}
+.soar-con .song-list li .dow {
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.soar-con .song-list li .dow .icon-dow {
+  display: block;
+  font-size: 5vw;
+  color: #a1a4b3;
+  width: 8vw;
+  margin-left: 2vw;
+}
+
+.load {
+  position: absolute;
+  bottom: 18vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.load span {
+  display: inline-block;
+}
