@@ -27,7 +27,7 @@ npm run serve
 
 # 项目部分展示图
 ![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/home.png)
-![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/vedio.png)
+![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/vedio.png)  
 ![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/album.png)
 ![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/music.png)
 
