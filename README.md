@@ -11,8 +11,18 @@ vue 手机播放器（移动端）
 4.搜索音乐
 .......
 
+# 服务器地址及教程地址如下
+github
+```
+https://github.com/xie392/music-server 
+```
+gitee
+```
+https://gitee.com/xie392/music-server
+```
+
 # 使用教程
-1.启动网易云服务器（服务器地址及教程地址:https://github.com/xie392/music-server)
+1.启动服务器
 ```
 node app.js
 ```
