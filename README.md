@@ -12,7 +12,7 @@ vue 手机播放器（移动端）
 .......
 
 # 使用教程
-1.启动网易云服务器（服务器地址及教程地址:) 或 git下载：git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git 
+1.启动网易云服务器（服务器地址及教程地址:https://github.com/xie392/music-server)
 ```
 node app.js
 ```
