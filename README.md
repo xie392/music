@@ -32,4 +32,5 @@ npm run serve
 ![Image](https://raw.githubusercontent.com/xie392/music/master/src/assets/music.png)
 
 # 结语
+  注意:视频页需要登录才能请求数据。
   本项目还有待完善，如果可以请自己修改并加入自己想要的元素
